@@ -1,0 +1,41 @@
+{
+  "categorization": {
+    "type": "GAME",
+    "category": "Role Playing"
+  },
+  "description": {
+    "texts": {
+      "title": "Wearwe",
+      "features": [
+        "Initial Changes"
+      ],
+      "short-description": "Wearwe - shorten from Where are we. This app will show you where is our office. As for the local area and the inside of our office.",
+      "full-description": "Wearwe - shorten from Where are we. This app will show you where is our office. As for the local area and the inside of our office. You can take a tour on our office as pixel character and meet our friendly team, diverse with our own personality.\nHopefully with this app, you can know us better! :)\n\n--Internet Required--",
+      "keywords": "wearwe, eyesimple",
+      "recent-changes": "",
+      "privacy-policy": "",
+      "eula": ""
+    },
+    "images": {
+      "screenshots": [],
+      "app-icon-small": "",
+      "app-icon": "../../Desktop/hires.png",
+      "small-promo": "",
+      "large-promo": ""
+    },
+    "videos": {
+      "video-url": ""
+    }
+  },
+  "packages": {
+    "apk-file": "",
+    "zip-xdk-compliant": false,
+    "zip-file": "",
+    "secondary-apk-file": ""
+  },
+  "support": {
+    "email": "hello@eyesimple.us",
+    "website": "http://eyesimple.us"
+  },
+  "testing-instructions": ""
+}
