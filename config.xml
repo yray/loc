@@ -41,6 +41,7 @@
 <platform  name="android">
     <!-- below requires the splash screen plugin -->
     <!-- docs: https://github.com/apache/cordova-plugin-splashscreen -->
+		<icon src="icon.png" />
     <preference name="SplashMaintainAspectRatio" value="false"/>
 </platform>
 <preference name="xwalkCommandLine" value="--disable-pull-to-refresh-effect --ignore-gpu-blacklist "/>
